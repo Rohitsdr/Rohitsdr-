@@ -4,7 +4,7 @@ Aspiring software developer passionate about building efficient, user-focused ap
   <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="100"/>
 </div>
 
-<h1 align="center">✨ Welcome to Arpit Srivastav's World of Innovation ✨</h1>
+<h1 align="center">✨ Welcome to Rohit kumar's World of Innovation ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+ML+Enthusiast+%7C+Innovator;Solving+problems+with+Generative+AI;Passionate+about+NLP+and+CV;Building+the+Future%2C+one+model+at+a+time!" />
